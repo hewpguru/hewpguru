@@ -4,6 +4,10 @@
 
 > This is an independent third-party tool. It is not affiliated with, endorsed by, or connected to the HEWP portal or any government department.
 
+## Why "Guru"?
+
+In Sanskrit, *guru* breaks down as *gu* (darkness / confusion) + *ru* (light / removal) — one who removes confusion and brings clarity. That's exactly the job this tool does on HEWP: what's normally a slow, manual, error-prone process — BOQ prep, billing, variation entry — becomes fast, guided, and automated. HEWP Guru Tool is built to be that guide: from confusion to clarity, in a few clicks.
+
 ## What it does
 
 - **BOQ Preparation** — build Bill of Quantities directly in Excel, formatted for HEWP upload
