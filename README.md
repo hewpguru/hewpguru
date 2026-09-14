@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://hewpguru.github.io/hewpguru/)
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://hewpguru.store/)
 [![Documents](https://img.shields.io/badge/Documents-Open-orange?style=for-the-badge)](#-documentation)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp)](https://wa.me/919728532828)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/HEWPGuru)
@@ -49,7 +49,7 @@ In Sanskrit, *guru* breaks down as *gu* (darkness / confusion) + *ru* (light / r
 
 ## 🚀 Download
 
-**📦 Download from Official Website:** [https://hewpguru.github.io/hewpguru/](https://hewpguru.github.io/hewpguru/)
+**📦 Download from Official Website:** [https://hewpguru.store/](https://hewpguru.store/)
 
 **📦 Direct Installer Downloads (latest release):**
 - Online Installer: `https://github.com/hewpguru/hewpguru/releases/download/latest/OnlineInstaller.exe`
@@ -550,7 +550,7 @@ This ensures you are working with the latest portal data and prevents quantity m
 
 ## 🎥 Video Tutorials
 
-Step-by-step video walkthroughs are embedded directly on the [Tutorials page](https://hewpguru.github.io/hewpguru/tool/tutorials.html) of the website.
+Step-by-step video walkthroughs are embedded directly on the [Tutorials page](https://hewpguru.store/tool/tutorials.html) of the website.
 
 ## 📄 Documentation
 
@@ -564,7 +564,7 @@ Step-by-step video walkthroughs are embedded directly on the [Tutorials page](ht
 
 - 📧 **Email:** HEWPGuru@gmail.com
 - 📱 **WhatsApp:** +91 97285 32828
-- 🌐 **Website:** [https://hewpguru.github.io/hewpguru/](https://hewpguru.github.io/hewpguru/)
+- 🌐 **Website:** [https://hewpguru.store/](https://hewpguru.store/)
 
 ### 🌍 Social & Community:
 
@@ -643,7 +643,7 @@ This software is proprietary and licensed for use only by authorized customers w
 We're committed to being the assistant that makes your engineering work faster, easier, and error-free.
 
 For the latest updates, tutorials, and support:
-- 🌐 Visit: [hewpguru.github.io/hewpguru](https://hewpguru.github.io/hewpguru/)
+- 🌐 Visit: [hewpguru.github.io/hewpguru](https://hewpguru.store/)
 - 💬 Join: [WhatsApp Community](https://chat.whatsapp.com/DEXKInfvpBd9cLwyaoq0sd)
 - 📘 Follow: [Facebook](https://facebook.com/HEWPGuru)
 
@@ -653,6 +653,6 @@ For the latest updates, tutorials, and support:
 
 **Made with ❤️ for Engineers and Contractors**
 
-[![Download Now](https://img.shields.io/badge/Download-Now-success?style=for-the-badge)](https://hewpguru.github.io/hewpguru/)
+[![Download Now](https://img.shields.io/badge/Download-Now-success?style=for-the-badge)](https://hewpguru.store/)
 
 </div>
